@@ -36,4 +36,4 @@
 ### 📫 Contact
 **Email:** paramveermarwahafc@gmail.com • **Location:** Germany (open to remote DE/FR/EU)
 
-<sub>Focused on React + Node, with solid Python/Django background. I care about clean code, secure APIs, and shipping usable products.</sub>
+<sub>Focused on React + Node, along with background in Python/Django. I care about clean code, secure APIs, and shipping usable products.</sub>
