@@ -12,9 +12,8 @@
 
 ### 🚀 Building
 - **LevelUp (WIP)** — AI-powered life-balancing app (React • Node/Express • MongoDB • Auth)
-- **EventSpark** — events platform (React FE + secure Node API with JWT/cookies, geolocation)
+- **EventSpark** — events platform **with Generative-AI integration** (smart suggestions/assistant) + React front end, secure Node API with JWT/cookies, and geolocation
 - **JobFix** — job management (MERN, dashboards, auth)
-- **Women’s Park** — app with Gen-AI integration
 - **React Tic-Tac-Toe** — pure React: immutable state, winner/draw, move logs
 
 ### 🧰 Tech
@@ -30,11 +29,8 @@
 
 ### 📈 Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramveer02&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramveer02&layout=compact&hide=Jupyter%20Notebook&langs_count=8&hide_border=true&theme=transparent&v=2" />
-  <!-- If you want to exclude specific repos as well, replace the second URL with:
-  https://github-readme-stats.vercel.app/api/top-langs/?username=paramveer02&layout=compact&hide=Jupyter%20Notebook&exclude_repo=Data-Analysis-Python,Machine_Learning,Python-Projects&langs_count=8&hide_border=true&theme=transparent&v=3
-  -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paramveer02&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats&theme=transparent&v=4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramveer02&layout=compact&langs_count=8&hide_border=true&theme=transparent&hide=Jupyter%20Notebook&v=4" />
 </p>
 
 ### 📫 Contact
