@@ -11,7 +11,7 @@
 </p>
 
 ### 🚀 Building
-- **LevelUp (WIP)** — AI-powered life-balancing app (React • Node/Express • MongoDB • Auth)
+- **LevelUp** — AI-powered life-balancing app (React • Node/Express • MongoDB • Auth)
 - **EventSpark** — events platform **with Generative-AI integration** (smart suggestions/assistant) + React front end, secure Node API with JWT/cookies, and geolocation
 - **JobFix** — job management (MERN, dashboards, auth)
 - **React Tic-Tac-Toe** — pure React: immutable state, winner/draw, move logs
